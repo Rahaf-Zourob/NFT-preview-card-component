@@ -70,15 +70,15 @@ img {
   height: 3rem;
 }
 
-h1,
+h2,
 .user-creation a {
   color: hsl(0, 0%, 100%);
 }
 
-h1 {
+h2 {
   cursor: pointer;
 }
-h1:hover {
+h2:hover {
   color: hsl(178, 100%, 50%);
 }
 
